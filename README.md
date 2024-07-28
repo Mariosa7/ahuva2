@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>אהובה בר טיפים</title>
+    <title>Ahuva Bar</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -48,17 +48,10 @@
             margin-top: 20px;
             font-weight: bold;
         }
-        #moneyImage {
-            display: block;
-            margin: 20px auto;
-            max-width: 100%;
-            height: auto;
-        }
     </style>
 </head>
 <body>
-    <h1>אהובה בר טיפים</h1>
-    <img id="moneyImage" src="https://example.com/money-image.jpg" alt="Money Image">
+    <h1>Ahuva Bar</h1>
 
     <form id="workerForm">
         <label for="workerName">שם עובד:</label>
